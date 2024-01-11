@@ -1,0 +1,18 @@
+body{
+   
+    overflow: hidden;
+}
+@media (min-width: 200px) {
+    body{
+        background-image: url("./images/bgimgsm.jpg");
+    }
+}
+
+
+
+@media (min-width: 600px) {
+    body {
+        background: #222222;
+        background-image: url("./images/bgimg.jpg");
+    }
+}
